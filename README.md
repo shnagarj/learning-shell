@@ -1,3 +1,3 @@
 # learning-shell
 ## Bash Shell Scripting
-### Shravan Sowmya
+### Shravan Sowmya Shreyas
